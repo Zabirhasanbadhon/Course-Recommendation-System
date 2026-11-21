@@ -52,7 +52,7 @@ The application uses a modern dark-themed interface with:
 - Dataset statistics
 - Status messages
 
-## 👨‍💻 DEVELOPER
+## 👨‍💻 Developer
 
 ## ZaBir HaSan
 
